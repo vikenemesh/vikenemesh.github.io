@@ -6,9 +6,9 @@
 // @include		https://*pr0gramm.com*
 // @exclude		http://full.pr0gramm.com*
 // @exclude		https://full.pr0gramm.com*
-// @version		2.0.2
-// @updateURL	https://github.com/vikenemesh/ExtendedBenis/raw/master/ExtendedBenis.user.js
-// @downloadURL	https://github.com/vikenemesh/ExtendedBenis/raw/master/ExtendedBenis.user.js
+// @version		2.0.3
+// @updateURL	https://vikenemesh.github.io/ExtendedBenis.user.js
+// @downloadURL	https://vikenemesh.github.io/ExtendedBenis.user.js
 // @description	Zeigt auf pr0gramm.com die Ups und Downs eines Bildes an.
 // @icon		http://pr0gramm.com/media/pr0gramm-favicon.png
 // @grant		unsafeWindow
